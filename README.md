@@ -1,9 +1,9 @@
 <h1 align="center">Hey, I'm Ananya!</h1>
 <h3 align="center">Full Stack Developer from Waterloo, ON</h3>
 
-- I’m currently working as a **Testing Analyst** at **Definity**.
+- I was recently working as a **Data Analyst** at **BDO Lixar**.
 
-- Let's chat about **Data Science Graphing Libraries, AWS S3, PySpark, Back-end Development**.
+- Let's chat about **Data Science Graphing Libraries, AWS S3, PySpark, Azure, Power BI**.
 
 - A fun fact about I think about often: **Los Angeles** is short for **"El Pueblo de Nuestra Señora la Reina de los Ángeles de Porciúncula"**
 
